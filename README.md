@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jocelynnecaspellan/pipelines-java/_apis/build/status/jcaspellan.pipelines-java?branchName=azure-pipelines)](https://dev.azure.com/jocelynnecaspellan/pipelines-java/_build/latest?definitionId=2&branchName=azure-pipelines)
 
 # Contributing
 
